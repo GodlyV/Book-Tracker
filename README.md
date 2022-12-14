@@ -28,3 +28,8 @@ MySQL: localhost:9906
 email: gabe@gmail.com
 pw: password
 
+OR 
+
+email: Brandon@gmail.com
+pw: password
+
